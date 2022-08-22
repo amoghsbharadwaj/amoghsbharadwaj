@@ -1,4 +1,5 @@
-# Hi there, I'm Amogh S Bharadwaj 👋 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amogh</h1>
+<h3 align="center">“In order to be irreplaceable, one must always be different”</h3>
 
 ## I'm a Student,Coder and Gamer!!
 --👀 I’m interested in Artificial Intelligence.<br/>
@@ -29,13 +30,21 @@
   <img align="left" alt="Amogh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amoghsbharadwaj&theme=radical&show_icons=true" />
   
   <img align="center" alt="Amogh's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghsbharadwaj&theme=radical&layout=compact" />
+  
+  </br>
+  <br/>
+  <p align="center">
+        <img alt="Amogh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amoghsbharadwaj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
+### My Top Repos
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amoghsbharadwaj&theme=radical&repo=AI-ML-Colon-Cancer" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amoghsbharadwaj&theme=radical&repo=Covid-Bed-Slot-Booking-System" /> <br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amoghsbharadwaj&theme=radical&repo=Weather-Application" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amoghsbharadwaj&theme=radical&repo=Jumping-Box" /> <br/>
 
 
 [twitter]: https://twitter.com/AmoghSBharadwaj
 [instagram]: https://instagram.com/_babayaga16
 [linkedin]: https://www.linkedin.com/in/amogh-b-47a878192
-[webdevplaylist]: https://www.youtube.com
-[jsplaylist]: https://www.youtube.com
-[cssplaylist]: https://www.youtube.com
-[reactplaylist]: https://www.youtube.com
