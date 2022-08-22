@@ -27,9 +27,9 @@
 
 ### My Stats
 
-  <img align="left" alt="Amogh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amoghsbharadwaj&theme=radical&show_icons=true" /> <br/>
+  <img align="left" alt="Amogh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amoghsbharadwaj&theme=radical&show_icons=true" /> 
   
-  <img align="left" alt="Amogh's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghsbharadwaj&theme=radical&layout=compact" />
+  <img align="center" alt="Amogh's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghsbharadwaj&theme=radical&layout=compact" />
   
   </br>
   <br/>
