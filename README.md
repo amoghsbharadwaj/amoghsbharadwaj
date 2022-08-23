@@ -47,4 +47,4 @@
 
 [twitter]: https://twitter.com/AmoghSBharadwaj
 [instagram]: https://instagram.com/_babayaga16
-[linkedin]: https://www.linkedin.com/in/amogh-b-47a878192
+[linkedin]: https://www.linkedin.com/in/amoghsbharadwaj
