@@ -5,7 +5,7 @@
 --👀 I’m interested in Artificial Intelligence.<br/>
 --🌱 I’m currently learning Computer Science Engineering.<br/>
 --💞️ I’m looking to collaborate on Computer Projects.<br/>
---📫 How to reach me : mail me on samoghbharadwaj@gmal.com<br/>
+--📫 How to reach me : mail me on amoghsai1665@gmail.com<br/>
 
 ### Connect with me:
 
