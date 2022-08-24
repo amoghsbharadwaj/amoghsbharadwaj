@@ -44,7 +44,10 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amoghsbharadwaj&theme=radical&repo=Weather-Application" /> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amoghsbharadwaj&theme=radical&repo=Jumping-Box" /> <br/>
 
+
+<div>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/acaced4d-c424-4e84-9265-43108ce7e53b/deploy-status)](https://app.netlify.com/sites/amoghs/deploys)
 [twitter]: https://twitter.com/AmoghSBharadwaj
 [instagram]: https://instagram.com/_babayaga16
 [linkedin]: https://www.linkedin.com/in/amoghsbharadwaj
+</div>
