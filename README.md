@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://google.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://google.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://amoghs.netlify.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://amoghs.netlify.app#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/amoghsbharadwaj#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/amoghsbharadwaj#gh-dark-mode-only)
