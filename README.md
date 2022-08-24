@@ -9,14 +9,14 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/amogh-b-47a878192#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/amogh-b-47a878192#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://google.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://google.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/amoghsbharadwaj#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/amoghsbharadwaj#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/_babayaga16#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_babayaga16#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/globe-light.svg)](https://google.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://google.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AmoghSBharadwaj#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AmoghSBharadwaj#gh-dark-mode-only)
@@ -44,7 +44,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amoghsbharadwaj&theme=radical&repo=Weather-Application" /> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amoghsbharadwaj&theme=radical&repo=Jumping-Box" /> <br/>
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/acaced4d-c424-4e84-9265-43108ce7e53b/deploy-status)](https://app.netlify.com/sites/amoghs/deploys)
 [twitter]: https://twitter.com/AmoghSBharadwaj
 [instagram]: https://instagram.com/_babayaga16
 [linkedin]: https://www.linkedin.com/in/amoghsbharadwaj
