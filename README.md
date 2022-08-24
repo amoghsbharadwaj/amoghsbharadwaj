@@ -45,8 +45,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amoghsbharadwaj&theme=radical&repo=Jumping-Box" /> <br/>
 
 
-<div>
-[twitter]: https://twitter.com/AmoghSBharadwaj
-[instagram]: https://instagram.com/_babayaga16
-[linkedin]: https://www.linkedin.com/in/amoghsbharadwaj
-</div>
