@@ -5,21 +5,10 @@
 --👀 I’m interested in Artificial Intelligence.<br/>
 --🌱 I’m currently learning Computer Science Engineering.<br/>
 --💞️ I’m looking to collaborate on Computer Projects.<br/>
---📫 How to reach me : mail me on amoghsai1665@gmail.com<br/>
+<br/>
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://amoghs.netlify.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://amoghs.netlify.app#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/amoghsbharadwaj#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/amoghsbharadwaj#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/_babayaga16#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/_babayaga16#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/AmoghSBharadwaj#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AmoghSBharadwaj#gh-dark-mode-only)
 
 ### Languages and Tools:
 
